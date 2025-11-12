@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Status-Research%20Project-success">
 </p>
 
-> **FinSage** is an intelligent Reinforcement Learning (RL) agent that learns how to manage personal finances — deciding *when to spend, save, or invest* — by interacting with a simulated financial environment.  
+> **FinRL** is an intelligent Reinforcement Learning (RL) agent that learns how to manage personal finances — deciding *when to spend, save, or invest* — by interacting with a simulated financial environment.  
 > Using **Deep Q-Learning (DQN)**, the model discovers balanced strategies that maximize long-term wealth while minimizing stress and maintaining satisfaction.
 
 ---
