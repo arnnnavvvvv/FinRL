@@ -14,7 +14,7 @@
 
 ## 🧠 Project Overview
 
-Traditional budgeting apps rely on static rules or manual user input. FinSage takes a step further — it **learns optimal financial behavior dynamically** through trial and feedback.
+Traditional budgeting apps rely on static rules or manual user input. FinRL takes a step further — it **learns optimal financial behavior dynamically** through trial and feedback.
 
 At every time step (month), the agent observes:
 - 💵 **Balance, Income, Expenses**
