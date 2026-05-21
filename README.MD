@@ -1,4 +1,4 @@
-# 💰 FinRL: An Adaptive Financial Advisor using Reinforcement Learning (DQN)
+#  FinRL: An Adaptive Financial Advisor using Reinforcement Learning (DQN)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white">
@@ -12,16 +12,16 @@
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 Traditional budgeting apps rely on static rules or manual user input. FinRL takes a step further — it **learns optimal financial behavior dynamically** through trial and feedback.
 
 At every time step (month), the agent observes:
-- 💵 **Balance, Income, Expenses**
-- 📈 **Market Return**
-- 📊 **Inflation**
-- ⚖️ **Risk Tolerance**
-- 🎯 **Goal Progress**
+-  **Balance, Income, Expenses**
+-  **Market Return**
+-  **Inflation**
+-  **Risk Tolerance**
+-  **Goal Progress**
 
 and decides between:
 > **Spend (0)**, **Save (1)**, or **Invest (2)**  
@@ -39,7 +39,7 @@ and decides between:
 
 ---
 
-## 📈 Reward Function
+##  Reward Function
 
 $$
 R_t = \alpha G_t + \beta S_t - \gamma F_t
@@ -59,7 +59,7 @@ These can be **personalized** per user to simulate different financial personali
 
 ---
 
-## 🧩 Key Components
+##  Key Components
 
 | Component | Description |
 |------------|--------------|
@@ -75,7 +75,7 @@ These can be **personalized** per user to simulate different financial personali
 
 ---
 
-## 🧪 Training Setup
+##  Training Setup
 
 ```bash
 # Create environment
